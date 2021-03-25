@@ -1,0 +1,9 @@
+﻿  BinaryOctalHexiConverter.cpp
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\BinaryOctalHexiConverter.cpp(77,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\BinaryOctalHexiConverter.cpp(79,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\BinaryOctalHexiConverter.cpp(89,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\BinaryOctalHexiConverter.cpp(91,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\BinaryOctalHexiConverter.cpp(102,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\BinaryOctalHexiConverter.cpp(110,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\BinaryOctalHexiConverter.cpp(114,48): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  BinaryOctalHexiConverter.vcxproj -> C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\BinaryOctalHexiConverter\Debug\BinaryOctalHexiConverter.exe
